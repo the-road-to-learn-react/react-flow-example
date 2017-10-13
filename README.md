@@ -15,4 +15,4 @@
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
-* `npm run flow` to type check all // @flow files
+* `npm run flow` to type check all // @flow files or install a flow plugin for your editor / IDE
