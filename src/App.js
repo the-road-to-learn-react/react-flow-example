@@ -61,6 +61,8 @@ class App extends React.Component<AppProps, AppState> {
         </Search>
 
         <Articles articles={ARTICLES.filter(applyFilter(searchTerm))} />
+
+        <p>Found in <a href="https://roadtoreact.com/">the Road to learn React</a></p>
       </div>
     );
   }
