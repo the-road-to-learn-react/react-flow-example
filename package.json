@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "flow-bin": "^0.56.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14"
+    "flow-bin": "^0.83.0",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,5 +15,11 @@
     "flow": "flow",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
