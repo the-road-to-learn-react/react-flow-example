@@ -1,3 +1,5 @@
+**Deprecated: I don't keep up with Flow anymore, because I use TypeScript for all my projects. If you want to check out TypeScript with React, check out [The Road to React](https://www.roadtoreact.com/).**
+
 # React Flow Example
 
 [![Build Status](https://travis-ci.org/the-road-to-learn-react/react-flow-example.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-flow-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-learn-react/react-flow-example.svg)](https://greenkeeper.io/)
